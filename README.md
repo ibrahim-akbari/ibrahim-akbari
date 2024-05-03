@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I’m currently working on Web Projects
-I’m currently learning JavaScript
+
